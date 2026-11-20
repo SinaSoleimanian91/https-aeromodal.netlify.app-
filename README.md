@@ -3,7 +3,7 @@ Airplane modal analysis app based on multibody dynamic model useful for post-bal
 
 An #airplane may require #balancing treatment during developmental flights or lifecycle. The balancing which often is done by adding counterweights changes natural frequencies. This change needs to be checked for preventing unwanted #vibrations, instability, flutter, etc. 
 Here, I am sharing an app I developed recently, AeroModal, which can be run by Chrome, Firefox and Edge latest versions:
-https://lnkd.in/eRbyTqQQ
+https://aeromodal.netlify.app
 
 This app helps you to quickly validate whether the natural frequencies remain within the safety zone after balancing, or not.
 First, you need to know whether the unbalance source is on the left wing or on the right one.
